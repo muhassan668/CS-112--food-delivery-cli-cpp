@@ -60,8 +60,8 @@ CS-112--food-delivery-cli-cpp
 ├── MenuItem.h
 ├── MenuItem.cpp
 │
-├── Restaurant.h
-├── Restaurant.cpp
+├── Restaurent.h
+├── Restaurent.cpp
 │
 ├── Cart.h
 ├── Cart.cpp
