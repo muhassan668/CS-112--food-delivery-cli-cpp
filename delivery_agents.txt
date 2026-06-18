@@ -1,0 +1,3 @@
+10|Ahmed Khan|ahmed1|ride123|Peshawar|03331234567|Bike|1
+11|Bilal Noor|bilal2|ride456|Rawalpindi|03441234567|Bike|1
+12|Hassan Ali|hassan3|ride789|Lahore|03551234567|Car|0
